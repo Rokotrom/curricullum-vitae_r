@@ -47,7 +47,7 @@ profile_pic = Image.open(profile_pic)
 with st.sidebar:
 
     #    with st.echo():
-        st.header("***Perfil***", divider='rainbow')
+        st.header("***Perfil***", divider='True')
     #    st.write("---")
         st.write(
                 """
