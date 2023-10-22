@@ -47,8 +47,8 @@ profile_pic = Image.open(profile_pic)
 with st.sidebar:
 
     #    with st.echo():
-        st.header("***Perfil***", divider='True')
-    #    st.write("---")
+        st.header("***Perfil***")
+        st.write("---")
         st.write(
                 """
                 :label: Otimismo diante das dificuldades
