@@ -8,7 +8,6 @@ import glob
 # import scipy.motion as motion
 
 from streamlit_option_menu import option_menu  # pip install streamlit-option-menu
-from streamlit_javascript import st_javascript
 from streamlit.components.v1 import html
 
 # @st.cache_data
